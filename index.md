@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Class Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Inventory linked list](https://github.com/jasond299/Inventory_LinkedList)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
