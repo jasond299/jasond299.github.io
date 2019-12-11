@@ -9,7 +9,7 @@
 - Dynamic memory allocation. insertion, deletion, search features.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
 
 
 
