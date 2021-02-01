@@ -4,9 +4,17 @@
 
 ### Class Projects 
 
-[Inventory linked list(May 2019)](https://github.com/jasond299/Inventory_LinkedList)
-- CSC2430 Spring 2019 (instructor: Taiwoo, Park)
+[Inventory linked list](https://github.com/jasond299/Inventory_LinkedList)
 - Dynamic memory allocation. insertion, deletion, search features.
+
+---
+
+[Android mobile app](https://github.com/thedavidang/CSC4151)
+- Budget tracking app to help and manage your expenses
+- add expenses quickly and view your spending data on diffirent categories in a visualize chart 
+- Easy and quick to use
+- Completely offline, does not store any private and sensitive information
+
 
 ---
 
