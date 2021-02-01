@@ -2,7 +2,7 @@
 
 ---
 
-### Class Projects 
+### Projects 
 
 [Inventory linked list](https://github.com/jasond299/Inventory_LinkedList)
 - Dynamic memory allocation. insertion, deletion, search features.
