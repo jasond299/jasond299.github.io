@@ -10,7 +10,7 @@
 - made with QT and C++
 <br>
 <img src="images/image1.png">
----
+
 
 [Android Mobile App](https://github.com/thedavidang/CSC4151)
 - Budget tracking app to help and manage your expenses
