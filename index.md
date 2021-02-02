@@ -14,6 +14,7 @@
 - add expenses quickly and view your spending data on diffirent categories in a visualize chart 
 - Easy and quick to use
 - Completely offline, does not store any private and sensitive information
+- Team of 4 members
 
 
 ---
