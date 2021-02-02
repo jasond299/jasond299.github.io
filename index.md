@@ -4,22 +4,23 @@
 
 ### Projects 
 
-[Inventory linked list](https://github.com/jasond299/Inventory_LinkedList)
-- Dynamic memory allocation. insertion, deletion, search features.
-
+[Booking Application](https://github.com/jasond299/Inventory_LinkedList)
+- A simple booking application
+- Booking page for users to book and choose rooms and a checkout page to display total cost  
+- made with QT and C++
 ---
 
-[Android mobile app](https://github.com/thedavidang/CSC4151)
+[Android Mobile App](https://github.com/thedavidang/CSC4151)
 - Budget tracking app to help and manage your expenses
-- add expenses quickly and view your spending data on diffirent categories in a visualize chart 
-- Easy and quick to use
+- Add expenses quickly and view your spending data on diffirent categories in a visualize chart 
 - Completely offline, does not store any private and sensitive information
 - Team of 4 members
+- made with Android Studio and Kotlin
 <br>
 <img src="images/tab1.png">
 <img src="images/tab2a.png">
 <img src="images/tab2b.png">
----
+
 
 
 
