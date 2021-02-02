@@ -15,8 +15,10 @@
 - Easy and quick to use
 - Completely offline, does not store any private and sensitive information
 - Team of 4 members
+<br>
 <img src="images/tab1.png">
 <img src="images/tab2a.png">
+<img src="images/tab2b.png">
 ---
 
 
