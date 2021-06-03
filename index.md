@@ -1,6 +1,3 @@
-## Portfolio
-
----
 
 ### Projects 
 
@@ -15,8 +12,6 @@
 [Android Mobile App](https://github.com/thedavidang/CSC4151)
 - Budget tracking app to help and manage your expenses
 - Add expenses quickly and view your spending data on diffirent categories in a visualize chart 
-- Completely offline, does not store any private and sensitive information
-- Team of 4 members
 - made with Android Studio and Kotlin
 <br>
 <img src="images/tab1.png">
