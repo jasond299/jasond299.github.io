@@ -12,6 +12,8 @@
 
 [Rock, Paper, Scissors game](https://github.com/jasond299/rock_paper_scissors)
 - A Rock Paper Scissors game implemented with HTML, CSS, and Javascript
+<br>
+<img src="images/rock_paper_scissors.png">
 
 [Booking Application](https://github.com/jasond299/Booking-application)
 - A simple booking application
