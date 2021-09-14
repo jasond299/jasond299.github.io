@@ -2,8 +2,8 @@
 ### Projects 
 
 [Android Mobile App](https://github.com/thedavidang/CSC4151)
-- Budget tracking app to help and manage your expenses
-- Add expenses quickly and view your spending data on diffirent categories in a visualize chart 
+- Built and design a budget tracking mobile application
+- Utilized HelloCharts library to display spending data in a line and pie chart 
 - made with Android Studio and Kotlin
 <br>
 <img src="images/tab1.png">
