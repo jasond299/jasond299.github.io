@@ -22,12 +22,7 @@
 <br>
 <img src="images/rock_paper_scissors.png">
 
-[Booking Application](https://github.com/jasond299/Booking-application)
-- A simple booking application
-- Booking page for users to book and choose rooms and a checkout page to display total cost  
-- made with QT and C++
-<br>
-<img src="images/image1.png">
+
 
 
 
