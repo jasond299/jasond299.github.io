@@ -3,7 +3,7 @@
 
 [Android Mobile App](https://github.com/thedavidang/CSC4151)
 - A budget tracking mobile application to keep track of spending and expenses
-- Utilized HelloCharts library to display spending data in a line and pie chart 
+- Utilized HeloCharts library to display spending data in a line and pie chart 
 - made with Android Studio and Kotlin
 <br>
 <img src="images/tab1.png">
